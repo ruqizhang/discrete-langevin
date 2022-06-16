@@ -50,8 +50,10 @@ To learn the EBM, run ``bash ebm.sh`` and to evaluate the learned EBM using AIS,
 
 
 ## Binary Bayesian Neural Networks
-
-
+See 
+```
+./BinaryBNN
+```
 
 # References
 * This repo is built upon the [GWG repo](https://github.com/wgrathwohl/GWG_release) 
