@@ -1,7 +1,7 @@
 # A Langevin-like Sampler for Discrete Distributions
 
 This repository contains code for the paper
-[A Langevin-like Sampler for Discrete Distributions](arxiv link), accepted in _International Conference on Machine Learning (ICML), 2022_.
+[A Langevin-like Sampler for Discrete Distributions](https://arxiv.org/pdf/2206.09914.pdf), accepted in _International Conference on Machine Learning (ICML), 2022_.
 
 ```bibtex
 @article{zhang2022langevinlike,
@@ -43,7 +43,7 @@ python pcd.py --sampler=<SAMPLER>
 
 Use ``plt_pcd`` to plot the results of log RMSE with respect to the number of iterations and the runtime.
 
-## Learning DEEP EBMS
+## Learning Deep EBMs
 The datasets can be found [here](https://github.com/jmtomczak/vae_vampprior/tree/master/datasets).
 
 To learn the EBM, run ``bash ebm.sh`` and to evaluate the learned EBM using AIS, run ``ais.sh``.
