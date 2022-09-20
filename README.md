@@ -55,5 +55,11 @@ See
 ./BinaryBNN
 ```
 
+## A Toy Example For Categorical Sampling
+See
+```
+./CategoricalExample
+```
+
 # References
 * This repo is built upon the [GWG repo](https://github.com/wgrathwohl/GWG_release) 
